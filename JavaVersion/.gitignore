@@ -1,0 +1,13 @@
+.DS_Store
+/bin
+/temp
+/test
+/src/test/dummy.bin
+/defs/captions_manual_good_*.txt
+/TF_FileCopy.jar
+/parsley_cmd.sh
+/chapters.txt
+/AtomicParsley-*
+/ccextractor-*
+/MP4Box-*
+/mkvextract-*
